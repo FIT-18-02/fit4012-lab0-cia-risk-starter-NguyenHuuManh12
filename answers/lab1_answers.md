@@ -1,7 +1,7 @@
 # Lab 01 Answers
 ## CIA & Risk: Hệ thống lưu điểm
 
-**Họ và tên:** Nguyễn Hữu Mạnh
+**Họ và tên:** Nguyễn Hữu Mạnh 
 
 **MSSV:** 1871020381
 
